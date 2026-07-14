@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 6 maxens maxens 4096 Jul 14 20:30 .
+drwxr-x--- 5 maxens maxens 4096 Jul 13 23:32 ..
+drwxr-xr-x 2 maxens maxens 4096 Jul 13 23:40 algo
+drwxr-xr-x 2 maxens maxens 4096 Jul 13 23:32 bdd
+-rw-r--r-- 1 maxens maxens    0 Jul 14 20:30 inventaire.txt
+-rw-r--r-- 1 maxens maxens   51 Jul 14 20:26 nombres.txt
+drwxr-xr-x 2 maxens maxens 4096 Jul 13 23:32 reseau
+drwxr-xr-x 2 maxens maxens 4096 Jul 13 23:32 web
